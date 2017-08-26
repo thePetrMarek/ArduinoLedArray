@@ -1,4 +1,4 @@
-# Arduino Led Array
+# Arduino LED Array
 Code for running 8x8 LED display on Arduino.
 
-[![Arduino Led Array](http://img.youtube.com/vi/HsX3UoVzPrs/0.jpg)](http://www.youtube.com/watch?v=HsX3UoVzPrs)
+![Arduino LED Array](http://petr-marek.com/wp-content/uploads/2017/08/Sn%C3%ADmek-obrazovky-70-1024x576.png)
